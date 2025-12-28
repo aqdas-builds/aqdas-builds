@@ -1,16 +1,30 @@
-## Hi there 👋
+# 👋 Hi, I'm Aqdas
 
-<!--
-**aqdas-builds/aqdas-builds** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build practical AI systems and automations that solve real-world problems.
 
-Here are some ideas to get you started:
+## 🚀 What I Do
+- AI Agents & Agentic Workflows
+- No-code / Low-code Automations (Make, n8n)
+- AI Chatbots (WhatsApp, Websites, Internal Tools)
+- Prompt-engineered AI systems
+- Business process automation
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tools & Stack
+- OpenAI / GPT
+- Make (Integromat)
+- n8n
+- APIs & Webhooks
+- LangChain / LangGraph
+
+## 🎯 Current Focus
+Building production-ready AI systems that:
+- Reduce manual work
+- Save time
+- Scale business operations
+
+## 📌 Philosophy
+Learning by building  
+Simple over complex  
+Impact over hype
+
+⭐ Always building. Always improving.
